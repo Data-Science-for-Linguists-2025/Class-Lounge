@@ -1,4 +1,11 @@
-# TITLE
+# German and English Mono- and Bilingual Language Analysis Guest Book
+[linked here :)](https://github.com/Data-Science-for-Linguists-2025/DEU-ENG-Mono-and-Billingual-Speakers)
+#### Contact Information: 
+Lillian Carlson
+lkc43@pitt.edu
+Pittsburgh, PA
+
+Welcome to my analysis of mono- and bilingual speakers of German and English!! Stay a while and leave a note :)
 
 >> comments from jenna :o (lillian!! I beat you here!! smh)
 1. you found a great variety of data 
