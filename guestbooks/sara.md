@@ -1,4 +1,8 @@
-# TITLE
+# "Bluesky on Algospeak" by Sara Rosneau
+Welcome to my guestbook! Feel free to leave comments on my project.  
+[Project repo is available here.](https://github.com/Data-Science-for-Linguists-2025/Algospeak-on-Bluesky)
+
+## Guestbook entries:
 
 Comments from Qidu:
 - I like that your data sharing plan: the entire dataset, and your rationale for it.
