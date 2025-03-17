@@ -22,3 +22,10 @@ contain a lot of information.
 I'd never thought of language endangerment as being the sort of inch-by-inch process mentioned or alluded to at least in your
 early work... with Spanish squeezing out Catalan little by little over time. Can't wait to see where this project goes!
 
+Claire:
+
+One aspect of your project that I thought you had a very good grasp of was the data sharing portion. You clearly did your research on the different licenses and selected the ones that fit your goals (and the licenses of the data) best. I think it was a great idea to follow the license of the most restrictive portion of your project, which from what I can see from your repo, is the Parlament Parla and ParlaMint corpora, which both require credit of the origial author. Well done!
+
+One suggestion I have is to provide some background on the history of Catalan and its endangerment. I think this would be extremely helpful to visitors of your repo with no prior knowledge or background of Catalan. This would also serve to make the future implications of your project clear!!
+
+One thing I learned from your project is the following quote that you included: “written language always represents a later stage than the actual appearance of any linguistic phenomenon...". Even as a linguistics student, I never really thought about this and always viewed written language as non-linguistic in nature. Love it!

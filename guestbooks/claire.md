@@ -1,4 +1,5 @@
-# TITLE
+# News-Bias-Assessment
+#### [News-Bias-Assessment](https://github.com/Data-Science-for-Linguists-2025/News-Bias-Assessment)
 
 Sara's comments:
 - Your progress report and notebook are both pretty clear, and this is a really interesting and necessary project!
