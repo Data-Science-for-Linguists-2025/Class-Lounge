@@ -7,7 +7,7 @@ Pittsburgh, PA
 
 Welcome to my analysis of mono- and bilingual speakers of German and English!! Stay a while and leave a note :)
 
->> comments from jenna :o (lillian!! I beat you here!! smh)
+comments from jenna :o (lillian!! I beat you here!! smh)
 1. you found a great variety of data 
 2. explain what you mean by 'formality' (as far as I know, German doesn't have a "formal" speech like japanese's honorific speech or french's tu/vous distinction with 2PL)
 3. idk if there's anything in particular that I've learned yet since this is just data colection
