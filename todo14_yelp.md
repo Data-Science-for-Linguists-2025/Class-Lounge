@@ -42,5 +42,9 @@ In terms of the Unix tools alone, wc took the longest I believe. I did not have 
 ## Jenna's Report
 I have a Microsoft Surface w/ 15.8 GB usable RAM (16GB installed). I forget when I got it, but it says the Windows Specifications was downloaded 2024-12-03...? but it's definitely older than that because I'm on my second stylus for it and I know I got those as Christmas presents.  
 My computer's memory with the current applications open & running hovers around 40%.  
-When I was processing 1000000 lines, it hovered at around 90% for most of the time and 70% towards the end. 15% of the CPU was used (14% from bash & , 1% from Task Manager itself, the rest negligible). disk varied from 1-50%. this took **38.255 seconds**.  
+When I was processing 1000000 lines, it hovered at around 90% for most of the time and 70% towards the end. 15% of the CPU was used (14% from bash & file folder, 1% from Task Manager itself, the rest negligible). disk varied from 1-50%. this took **38.255 seconds**.  
 ... I tried processing 10 mil lines. BAD idea. my memory & disk were at 99% practically the whole time (CPU 35-50%) and then there was a memory error so after waiting like 10 mins I got NOTHING :(  
+    OKAY I DID FIVE MIL LET'S GO
+    real    24m59.448s
+    user    0m0.140s
+    sys     0m0.125s
