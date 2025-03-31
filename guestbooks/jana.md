@@ -29,3 +29,10 @@ One aspect of your project that I thought you had a very good grasp of was the d
 One suggestion I have is to provide some background on the history of Catalan and its endangerment. I think this would be extremely helpful to visitors of your repo with no prior knowledge or background of Catalan. This would also serve to make the future implications of your project clear!!
 
 One thing I learned from your project is the following quote that you included: “written language always represents a later stage than the actual appearance of any linguistic phenomenon...". Even as a linguistics student, I never really thought about this and always viewed written language as non-linguistic in nature. Love it!
+
+Qidu's comments:
+- I like how logical your progress-report is. You talked about the problems/issues you encoutered
+when dealing with the data and provided your methods tackling them
+- I also like the visuals you made in the ipynb files. They were interesting and published-research like. I think they will be great for presentation. Good job. 
+- You may want to move the contents at the beginning of the ipyn file instead of putting it at 2nd section, which will help readability.
+- One thing I learned was to document the issues that I encoutered and methods in solving them in the my next progress_report.

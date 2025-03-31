@@ -19,3 +19,10 @@ I appreciate that you spell out the exact sourcing of your data pretty thoroughl
 biased news sources while avoiding being biased in your sourcing yourself. Good to see!
 
 Your progree report is nicely organized. I'm taking notes to make my own look just a little bit nicer too :)
+
+Qidu's comments
+- I like your idea. It is very interesting and I think it is fun project on analyzing bias in news articles. 
+- Your documentation of the your project progress is very detailed and easy to follow.
+- It may help readability when contents are added to the beginning of the ipynb files. 
+You may want to supress some output displays in the ipynb files since they may be hard to read and unnecessary. 
+- One thing I learned the possible corpus-pragmatic/intensification approach to analyzing objectivity/similarities. 
