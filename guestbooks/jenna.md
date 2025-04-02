@@ -20,3 +20,14 @@ I see that your project is very heavy on the web scraping! Mine is too!! I reall
 One suggestion I have is actually a super fun website that I have been using for fun and to improve my regex skills! I even showed it to my sister and she loved it! It is a regex crossword puzzle website that is SUPER helpful! Here is a link! [Regex-Crossword](https://regexcrossword.com). I am also using a lot of regex in my project and this website/game has made my project SO much more approachable.
 
 One thing I learned from your project is that AO3 is very universal! Admittedly I didn't know much about the website before, so it is very cool to know that it features authors from all around the world.
+
+
+Ashley:
+This is a cool project! Thinking about predicting L1 in Homework 3 & I'm very interested to see how you tackle the classification process and how well it performs.
+
+I was also very curious how you manged to be sure you were sourcing fics written by people with different L1s but it's cool you wrote out what your process was exactly. 
+I guess a lot of people are saying "I'm [nationality]" as a disclaimer for spelling or grammar mistakes? It's a clever thought for searching.
+Sounds like you had to do a lot of work looking through all your data and making sure it was a note from the author and not part of the story. 
+
+I know you're in more CS classes than I've ever taken, looking through your scripts is really fascinating but I think it's well commented on so the steps aren't too opaque. 
+Looking forward to seeing your presentation!
