@@ -33,4 +33,4 @@ Comments from Lillian:
 Comments from Jenna:
 - I really like the frequency of your md cells describing/explaining what's happening/its importance  
 - For your CSV data, what is the column before index?  
-- 
+- I learned about the NEW CONTINUING method for Jupyter notebooks.
