@@ -26,3 +26,8 @@ Qidu's comments
 - It may help readability when contents are added to the beginning of the ipynb files. 
 You may want to supress some output displays in the ipynb files since they may be hard to read and unnecessary. 
 - One thing I learned the possible corpus-pragmatic/intensification approach to analyzing objectivity/similarities. 
+
+Lillian Carlson
+- Your project has a lot of really insightful linguistic analysis with links to a lot of great papers about said linguistic phenomenae. It's a very interesting angle in terms of analyzing bias (something I have little experience with) and I am looking forward to seeing the results of the project!
+- I think it would be great if the README was updated to at least list the contents, goal of the projects, ect (I just know I personally always go to the README first to get a lay of the land). One other thing would be to flash less of the articles so they didn't take up the whole screen (specifically the vox article and potential copyright issues).
+- As I said before, I learned about looking at bias through a linguistic point of vewi and how that can be identified in texts, with a lot of great papers linked for further reading!
