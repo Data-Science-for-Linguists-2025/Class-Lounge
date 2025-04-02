@@ -25,3 +25,7 @@ Comments from Sara:
 Response: Thank you, too! I had that thought too, with a gender column. Na-Rae discouraged it though and encouraged slicing instead (for your own future works I'm sharing)
 I'm so glad now to be done with all my Regex!
 
+Comments from Lillian:
+- Generally, the readability of your code is great (although I see that's something you've been praised for before)! The analysis of your readability scores are interesting, thorough and well explained/backed! I can't wait to see what other kinds of tests you may employ to analyze your data!
+- It looks like your looking at enable as your dictionary to cross-compare when looking for dnd jargon- I know enable does have some funky words, so maybe try to see what funky words could be in it. Perhaps words like 'fae' or 'proficiency' may be in it, but you may still want to consider those words 'dnd jargon'. In that vein, it may be good to try and define what exactly 'dnd jargon' is, just to readers have a clearer idea of what you're looking for as some words could be considered both 'dnd jargon' and standard words.
+- I had never heard of the Flesch-Kincaid Grade Level test, and other readability tests and they're another really interesting test to understand the contexts of your texts! 
