@@ -26,3 +26,12 @@ Comments from Jana:
 3. A dataset I’m working with had both XML and CoNLL formats. I went with the safer option and worked with XML. Your notebook was a great first contact for me on how to work with CoNLL. I did not know everything was tab-separated, and seeing you figure out everything on the “foo” mini subset of the data was great. Also, I was unaware that Spacy had a CoNLL parser, which is good to know, as we’ve seen this is a very common format. 
 
 From Lillian: Thank you very much for visiting my project and I really appreciate your feedback! Thank you for letting me know how the notebook looks on your end, as on my end it doesn't look like I'm flashing a lot but I must have different settings than what is seen on viewers' ends!
+
+Ashley:
+This is a very cool idea! I'm super interested in seeing how it pans out. I think your project plan & main question are well-defined (something I had a heck of a time with)
+and your progress report file is detailed. I know what you mean about feeling like you didn't have much to show for the second report because it was all behind the scenes, mine was too. 
+
+Your notebooks are gorgeous! Super organized and super informative, good comments. I did a bunch of headers in mine but not a linked table of contents at the top, so I'm stealing that from you.
+
+Looks like you really had your work cut out for you when it came to parsing and getting your data to a point you can work with, but you did a good job!
+Really interested in seeing what results come out of your work :)
