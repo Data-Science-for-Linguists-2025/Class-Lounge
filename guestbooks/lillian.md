@@ -35,3 +35,8 @@ Your notebooks are gorgeous! Super organized and super informative, good comment
 
 Looks like you really had your work cut out for you when it came to parsing and getting your data to a point you can work with, but you did a good job!
 Really interested in seeing what results come out of your work :)
+
+Comments from Claire:
+1. One thing I noticed was that you did an incredible job utilizing new functions and libraries that we haven't covered in class! It is very clear to me that you have done a lot of research on libraries such as Spacy and data like ConLL data. I have tried to parse ConLL data in the past and struggled a lot, so I'm glad to see that you were successful with it!
+2. One avenue for improvement would be to include more of a background on the "why" of your project. This doesn't necessarily need to be done right now but definitely something to think about!
+3. One thing I learned is that Spacy has a built in ConLL parser!

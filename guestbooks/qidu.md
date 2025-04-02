@@ -17,3 +17,8 @@ Comments from Jana:
 1. Your Project plan is really complete. Keywords, importance of study and steps are sections that I think are a great decision and very helpful both probably for you to work from and for viewers as well. 
 2. I think you could consider including a little introduction or header for the jupyter notebook 0_collect_data.ipynb, I did not realize you did not use that data until I read the project plan and saw your note about it, but I think you could have a mini introduction markdown cell just before the code for context.
 3. Even though this is for the section “something I learned,” I wanted to say your analyze_data jupyter notebook is awesome. It helped me discover many things. First, using WordClouds for cluster visualization is a great idea that I had never thought of. Also, I had never heard of langdetect and detect_langs, and it is an amazing tool I am now thinking about using it to detect Spanish mixed in the Catalan files.
+
+Comments from Claire:
+1. One thing I liked about your project was your use of relevant class topics in your notebooks. You seem to have a great command of the clustering moel and it's great that youoprinted the cluster dataframe to show the viewer exactly how the clustering model is working.
+2. One avenue for improvement is providing more information on the future implications of your project and why exactly your project is important.
+3. One thing I learned is that custom functions can be very helpful in a project like this! I might try to build some custom functions myself.
