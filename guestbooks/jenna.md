@@ -42,3 +42,8 @@ Comments from Ashley:
 Response to Ashley:
 - I definitely want to use more ML-heavy classification that we've gone over more recently than HW3, and I thinkkkk that it will give me more accurate results (hopefully)
 - Yeah! Thankfully, the html separates out notes from the work itself, but I just realized that I forgot to check the tags...
+
+Qidu's comments:
+- This/fanfiction is an interesting topic. I'd like to see what the results would look like. 
+- One thing you may want to do is put the links to the files you mentioned in the progress report, so it is easier for readers to view your repo. 
+- I will include the next steps (like you did) in my progress report in the future. 
