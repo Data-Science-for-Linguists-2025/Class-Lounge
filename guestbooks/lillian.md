@@ -43,5 +43,5 @@ Comments from Claire:
 
 Qidu's comments:
 - I like the structure of your jupyter notebook. It is clear what you want to achieveed and how you acehived them at the beginning of the notebook. This is very clear. I will adopt this in the future.  
-- One suggestion is to not print out all the contents (e.g., [code block 2](https://github.com/Data-Science-for-Linguists-2025/DEU-ENG-Mono-and-Billingual-Speakers/blob/main/LoadingRUEGData.ipynb)), which causes issues for readability. 
+- One suggestion is to not print out all the contents (e.g., [code block 26](https://github.com/Data-Science-for-Linguists-2025/DEU-ENG-Mono-and-Billingual-Speakers/blob/main/LoadingRUEGData.ipynb)), which causes issues for readability. 
 - As mentioned, I will detail my goals at the beginning of my notebook. Great work. 
