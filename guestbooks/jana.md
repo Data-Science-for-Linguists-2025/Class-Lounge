@@ -40,3 +40,5 @@ when dealing with the data and provided your methods tackling them
 - I also like the visuals you made in the ipynb files. They were interesting and published-research like. I think they will be great for presentation. Good job. 
 - You may want to move the contents at the beginning of the ipyn file instead of putting it at 2nd section, which will help readability.
 - One thing I learned was to document the issues that I encoutered and methods in solving them in the my next progress_report.
+
+Jana's Response: Thank you so much! I think changing the order of my cells is a great idea. 
