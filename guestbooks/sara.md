@@ -26,3 +26,10 @@ Comments from Jenna:
 - I like how you show the .csv for the data - it makes it easy for those unfamiliar with bluesky to understand what your project is using as data.
 - It's helpful that you put definitions of Algospeak terms such as "watermelon" which I hadn't heard before, BUT I feel like for the more abstract ones the "etymology" of each term should be included.  
 - I learned about how to look into APIs like the one from Bsky.
+
+Comments from Ashley:
+- I like how well you spelled out the process of how you got your data and broke it down into searching for the kay words you're analyzing. Cool to see blusky has some api availability for this kind of stuff
+- I find algo speak so grating personally, I find it interesting how a lof of the data seems split! People saying "unalive" sincerely and others saying it in the context of "i hate this word don't say it here"
+- I am on bluesky minimally and I never remember to check it, I'm surprised to learn algospeak is being used there so much when there is no algorithm! 
+- I agree with previous comments that a table of contents at the top of the notebook I think could be helpful.
+- Super interested to see what you have to report in a couple weeks!
