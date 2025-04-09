@@ -47,3 +47,6 @@ Qidu's comments:
 - This/fanfiction is an interesting topic. I'd like to see what the results would look like. 
 - One thing you may want to do is put the links to the files you mentioned in the progress report, so it is easier for readers to view your repo. 
 - I will include the next steps (like you did) in my progress report in the future. 
+
+Response to Qidu:
+- I've been meaning to put the links there... oops. Thank you!

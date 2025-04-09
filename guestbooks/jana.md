@@ -42,3 +42,8 @@ when dealing with the data and provided your methods tackling them
 - One thing I learned was to document the issues that I encoutered and methods in solving them in the my next progress_report.
 
 Jana's Response: Thank you so much! I think changing the order of my cells is a great idea. 
+
+Comments from Jenna:
+- I was in LING1470 (Endangered Languages) last semester, so seeing a project regarding language endangerment is really cool!
+- What is the directional difference between *anar* and *venir*? do both words (or an equivalent) exist in Spanish, but with the same definition, or does only one exist?
+- I hadn't read into these specific aspects of language endangerment, so seeing the criterion of losing word classes not found in dominant language was really interesting! 
