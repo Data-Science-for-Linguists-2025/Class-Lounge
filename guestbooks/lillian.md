@@ -36,17 +36,25 @@ Your notebooks are gorgeous! Super organized and super informative, good comment
 Looks like you really had your work cut out for you when it came to parsing and getting your data to a point you can work with, but you did a good job!
 Really interested in seeing what results come out of your work :)
 
+From Lillian: Thank you very much! I tried hard to keep everything organized and readable so I appreciate the comments!
+
 Comments from Claire:
 1. One thing I noticed was that you did an incredible job utilizing new functions and libraries that we haven't covered in class! It is very clear to me that you have done a lot of research on libraries such as Spacy and data like ConLL data. I have tried to parse ConLL data in the past and struggled a lot, so I'm glad to see that you were successful with it!
 2. One avenue for improvement would be to include more of a background on the "why" of your project. This doesn't necessarily need to be done right now but definitely something to think about!
 3. One thing I learned is that Spacy has a built in ConLL parser!
+
+From Lillian: Thank you very much! Adding a 'why' is a great idea and I'll consider incorporating it in the future!
 
 Qidu's comments:
 - I like the structure of your jupyter notebook. It is clear what you want to achieveed and how you acehived them at the beginning of the notebook. This is very clear. I will adopt this in the future.  
 - One suggestion is to not print out all the contents (e.g., [code block 26](https://github.com/Data-Science-for-Linguists-2025/DEU-ENG-Mono-and-Billingual-Speakers/blob/main/LoadingRUEGData.ipynb)), which causes issues for readability. 
 - As mentioned, I will detail my goals at the beginning of my notebook. Great work. 
 
+From Lillian: Thank you for the feedback! I did not realize that some things were printing out more context than what I am seeing, so this is very appreciated!
+
 Comments from Sara:
 - You have a very interesting question! Also, as others have said, your notebooks are very organized and pleasant to look at. Your interpretation in the data exploration notebook is also very clear!
 - One suggestion I have, especially for the data loading and processing workbook, is that there could be a little more commentary and explanation on what you are doing. Right now, there is very little non-code text in that workbook and it will help observers to understand what you are doing.
 - One thing I learned was that monolinguals and bilinguals seem to use different stop words! I would love to see some stats for that but it looks really interesting so far!
+
+From Lillian: Thank you for the feeback on my interpretation! I have a hard time conveying that into words sometimes, so I'm glad other people find it understandable! I will absolutely be going back to add more non-code text to explain my process a little more!
