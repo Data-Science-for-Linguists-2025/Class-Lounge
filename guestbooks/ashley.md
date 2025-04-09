@@ -34,3 +34,8 @@ Comments from Jenna:
 - I really like the frequency of your md cells describing/explaining what's happening/its importance  
 - For your CSV data, what is the column before index?  
 - I learned about the NEW CONTINUING method for Jupyter notebooks.
+
+Comments from Jana:
+- I really like your “thoughts” sections in your notebooks, they are very helpful and make understanding what you are working with, thinking and planning very easy to follow.
+- I think you could update your project plan goals, as your project seems to be much more developed and has gone further than what you have on your project plan. 
+- Even though I'm just seeing that Lillian also learned this from your project, I had never heard of the Flesch–Kincaid readability test either! It is so fascinating! The explanation you provide and the graph help a lot as someone who had never heard of it
