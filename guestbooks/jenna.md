@@ -55,3 +55,8 @@ Sara's comments:
 - I really like the overall process notebook! It makes it very clear what you're doing and what you plan on doing in the future.
 - One suggestion I have is to also put the purpose of each notebook at the top of each notebook. You can probably just copy and paste it from the overally process notebook, but it helps a lot when looking through things!
 - One thing I've learned is how to use scrapy! Looks like it's a bit complicated, but this should help other people in the future!
+
+Lillian's comments:
+- I've finally gotten to your project! I like how organized your notebooks are and everything is very readable! I also have a potential idea as to why stanza marked that one sentence in your data_organization as one sentence and not three: perhaps it is because it was dialogue or the regex is greedy? I'm not sure if this helps but it was jsut my hypothesis when I saw it. Overall, though, your project is really coming along and your project is enjoyable to look through!
+- You have a LOT of files, and I think organizing them somewhere and explaining what each file is/contains and linking to them (maybe in a project plan or readme) would be really beneficial. Additionally, The way your project plan is formatted in the markdown file makes it a little hard to read on github. I would just take a look at its appearance on github to see if that's what you're aiming for or not.
+- That was an impressive amount of webscraping- something I've been too scared to really try- it is very impressive and I feel that I learned a lot from it especially becasue you outlined how it works and what each part does- very helpful!

@@ -47,3 +47,9 @@ Comments from Jenna:
 - I was in LING1470 (Endangered Languages) last semester, so seeing a project regarding language endangerment is really cool!
 - What is the directional difference between *anar* and *venir*? do both words (or an equivalent) exist in Spanish, but with the same definition, or does only one exist?
 - I hadn't read into these specific aspects of language endangerment, so seeing the criterion of losing word classes not found in dominant language was really interesting! 
+
+Comments from Lillian:
+- I think it's really cool that your project has a paper it's based off of, so that viewers can look more into the problem. Your project plan is also super clean and organized, and it's really clear what you're setting out to do!
+- The visuals and maps are also super helpful in understanding the changes in the langauge, especially for people who are unfamiliar with these changes.
+- I think adding a little blurb or table of contents in the beginning of your notebooks would be helpful. Epecially because some of them are a little longer but have a lot of really good information, it might be easier for viewers to find what they are looking for.
+- Your regex and data parsing is really something to be proud and something maybe I will look back on in the future for inspiration.
