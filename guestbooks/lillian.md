@@ -45,3 +45,8 @@ Qidu's comments:
 - I like the structure of your jupyter notebook. It is clear what you want to achieveed and how you acehived them at the beginning of the notebook. This is very clear. I will adopt this in the future.  
 - One suggestion is to not print out all the contents (e.g., [code block 26](https://github.com/Data-Science-for-Linguists-2025/DEU-ENG-Mono-and-Billingual-Speakers/blob/main/LoadingRUEGData.ipynb)), which causes issues for readability. 
 - As mentioned, I will detail my goals at the beginning of my notebook. Great work. 
+
+Comments from Sara:
+- You have a very interesting question! Also, as others have said, your notebooks are very organized and pleasant to look at. Your interpretation in the data exploration notebook is also very clear!
+- One suggestion I have, especially for the data loading and processing workbook, is that there could be a little more commentary and explanation on what you are doing. Right now, there is very little non-code text in that workbook and it will help observers to understand what you are doing.
+- One thing I learned was that monolinguals and bilinguals seem to use different stop words! I would love to see some stats for that but it looks really interesting so far!

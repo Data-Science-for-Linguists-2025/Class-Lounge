@@ -50,3 +50,8 @@ Qidu's comments:
 
 Response to Qidu:
 - I've been meaning to put the links there... oops. Thank you!
+
+Sara's comments:
+- I really like the overall process notebook! It makes it very clear what you're doing and what you plan on doing in the future.
+- One suggestion I have is to also put the purpose of each notebook at the top of each notebook. You can probably just copy and paste it from the overally process notebook, but it helps a lot when looking through things!
+- One thing I've learned is how to use scrapy! Looks like it's a bit complicated, but this should help other people in the future!
