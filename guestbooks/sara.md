@@ -21,3 +21,8 @@ Comments from Jana:
 - I like how you present Algospeak in Aims in your README, it is very clear and a great summary of what you'll be doing in your project. On the same line, I really like how you clearly specify the terms you are working on, as for example in "Getting some actual data." The listed terms next to their equivalents is a very clear way to present your specific targets. 
 - I would consider collapsing project_report.md and progress_report.md in a single file and removing the other. Having one report after the other makes the timeline very clear and layout your progress nicely.
 - To be fully honest, I had no idea about many of the Algospeak terms you're working with, that was something I learned. Project-related: I hadn't thought about how to work with passwords and avoid privacy issues, on your Getting Bsky Data notebook I learned that a good way to do it is to keep your password in a text file as your "private\pw.txt" and use it from there.
+
+Comments from Claire:
+- One thing I like about your project is your use of topic modeling as a means of better understanding your data, as opposed to looking for reliable results. YOu mentioned that you were dealing with a small number of posts, but the topic modeling approach could definitely lead to something big if you decided to expand your dataset!
+- One avenue for improvement in your project would be to include a walkthrough of your documents and notebooks in your README file. More info on each element is in the progress report, but it might be helpful for the reader to see them in the README!
+- One thing I learned from your project is that BlueSky is not algorithmically driven. I love that!
