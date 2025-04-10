@@ -22,12 +22,11 @@ Comments from Jana:
 - I would consider collapsing project_report.md and progress_report.md in a single file and removing the other. Having one report after the other makes the timeline very clear and layout your progress nicely.
 - To be fully honest, I had no idea about many of the Algospeak terms you're working with, that was something I learned. Project-related: I hadn't thought about how to work with passwords and avoid privacy issues, on your Getting Bsky Data notebook I learned that a good way to do it is to keep your password in a text file as your "private\pw.txt" and use it from there.
 
-<<<<<<< HEAD
 Comments from Claire:
 - One thing I like about your project is your use of topic modeling as a means of better understanding your data, as opposed to looking for reliable results. YOu mentioned that you were dealing with a small number of posts, but the topic modeling approach could definitely lead to something big if you decided to expand your dataset!
 - One avenue for improvement in your project would be to include a walkthrough of your documents and notebooks in your README file. More info on each element is in the progress report, but it might be helpful for the reader to see them in the README!
 - One thing I learned from your project is that BlueSky is not algorithmically driven. I love that!
-=======
+
 Comments from Jenna:  
 - I like how you show the .csv for the data - it makes it easy for those unfamiliar with bluesky to understand what your project is using as data.
 - It's helpful that you put definitions of Algospeak terms such as "watermelon" which I hadn't heard before, BUT I feel like for the more abstract ones the "etymology" of each term should be included.  
@@ -39,4 +38,3 @@ Comments from Ashley:
 - I am on bluesky minimally and I never remember to check it, I'm surprised to learn algospeak is being used there so much when there is no algorithm! 
 - I agree with previous comments that a table of contents at the top of the notebook I think could be helpful.
 - Super interested to see what you have to report in a couple weeks!
->>>>>>> 9695699ca041eaccb5c29151b53d9c204b20e2e9
