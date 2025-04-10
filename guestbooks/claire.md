@@ -31,3 +31,13 @@ Lillian Carlson
 - Your project has a lot of really insightful linguistic analysis with links to a lot of great papers about said linguistic phenomenae. It's a very interesting angle in terms of analyzing bias (something I have little experience with) and I am looking forward to seeing the results of the project!
 - I think it would be great if the README was updated to at least list the contents, goal of the projects, ect (I just know I personally always go to the README first to get a lay of the land). One other thing would be to flash less of the articles so they didn't take up the whole screen (specifically the vox article and potential copyright issues).
 - As I said before, I learned about looking at bias through a linguistic point of vewi and how that can be identified in texts, with a lot of great papers linked for further reading!
+
+Comments from Jenna:
+- There's so much stuff involved in your pipeline! The different details, etc. are astounding.
+- I think it would be cool if you collected data/sorted by authors of the articles so that you could eliminate idiolect-caused patterns!
+- I wish I had seen this sooner! I had a really difficult time working with bs4 parsing, and your work here definitely made me understand it a lot better
+
+Comments from Jana:
+- Your project plan is a very complete roadmap, and you always keep in mind and remind the reader that you might make some changes due to time and resource constraints.
+- On the data pipeline, I would consider chopping off the output data. It makes it a bit harder to follow your notebook and see the relevant and probably very time-consuming steps you took in the processing stage.
+- I learned that you can measure bias through Factive verbs, Subjective intensifiers, and One-sided terms, which I had no idea about. I also learned that you could scrape newspapers, which I hadn't thought of as a possibility and, I think, makes for an amazing resource. I'm looking forward to seeing what comes out of this bias-assessment!

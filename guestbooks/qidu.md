@@ -22,3 +22,9 @@ Comments from Claire:
 1. One thing I liked about your project was your use of relevant class topics in your notebooks. You seem to have a great command of the clustering moel and it's great that youoprinted the cluster dataframe to show the viewer exactly how the clustering model is working.
 2. One avenue for improvement is providing more information on the future implications of your project and why exactly your project is important.
 3. One thing I learned is that custom functions can be very helpful in a project like this! I might try to build some custom functions myself.
+
+Comments from Ashley:
+1. The topic clustering and word clouds are very cool! A nice visualization for some interesting data. 
+2. The labels on your LDS Topic Distrubtion bar graph (in file 2.1) are a bit off
+3. Super powerful and well documented functions! I used a few here and there, but it's cool to see this many working in tandem and producing such clean data
+4. Can't wait to see the presentation!
